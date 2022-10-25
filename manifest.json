@@ -1,0 +1,18 @@
+{
+  "short_name": "read",
+  "name": "read",
+  "description": "read",
+  "display": "minimal-ui",
+  "background_color": "#222",
+  "theme_color": "#222",
+  "icons": [
+    {
+      "src": "./favicon.ico",
+      "type": "image/png",
+      "sizes": "256x256"
+    }
+  ],
+  "id": "./",
+  "start_url": "./",
+  "scope": "./"
+}
